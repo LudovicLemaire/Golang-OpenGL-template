@@ -1,8 +1,15 @@
 # Golang-OpenGL-template
 Simple Golang/OpenGL template I did so I can reuse it when I need to test so graphical representation, mostly for school projects.
 
-
-It has:
+## Excecute
+```
+go run .
+```
+## Requirement
+* Golang
+* OpenGL 4.1
+- - -
+## It has
 * a complete event handling, with different states (click, hold, released, null).
 * a camera to move around
 * a buffer ready to draw triangle/color from a slice.
